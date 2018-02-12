@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nearby Places</string>
+    <string name="map_api_key">AIzaSyBlKxbGJb1KhnhsZEkMN3xwbD8DeLtADj0</string>
+    <string name="nearby_api_key">AIzaSyC60pH6UH4q2SRXBkljpa75kERlSQl8cl4</string>
+    <string name="distance_api_key">AIzaSyB1_RaBuXU2yrq_qxt9O3m-JkfH347sjV0</string>
+</resources>
